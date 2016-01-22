@@ -4,11 +4,11 @@ Gem::Specification.new do |s|
   s.date        = '2016-01-21'
   s.executables << 'jenkins-metrics-health'
   s.summary     = "Jenkins Health Checks"
-  s.description = "Simple Jenkins health status script"
+  s.description = "Simple Jenkins health status script."
   s.authors     = ["Jeff Wong"]
   s.email       = 'awole20@gmail.com'
   s.files       = ["lib/jenkins-metrics-health.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/jenkins-metrics-health'
+    'https://github.com/featheredtoast/jenkins-metrics-health'
   s.license       = 'MIT'
 end
